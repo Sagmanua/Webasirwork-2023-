@@ -1,0 +1,309 @@
+
+ body, html {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+.logocuber123{
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+body{
+    background-color: black;
+}
+h1{
+        text-align: center:
+}
+main{
+    margin-top: 30px;
+
+    height: auto;
+    background-color: rgba(0, 3, 7, 0.66);
+    border: 1px solid white;
+    padding: 20px;
+    color: azure;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Black Ops One';
+}
+section{
+    margin-top: 50px;
+ 
+    height: auto;
+    background-color:rgba(0, 3, 7, 0.66);
+    border: 1px solid white;
+    padding: 20px;
+    color: azure;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100px;
+    font-family: 'Black Ops One', sans-serif;
+}
+section2{
+    margin-top: 50px;
+    height: auto;
+    background-color: rgba(0, 3, 7, 0.66);
+    border: 1px solid white;
+    padding: 20px;
+    color: azure;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100px;
+    font-family: 'Black Ops One', sans-serif;
+}
+.video12{
+ position: fixed;
+            top: 50%;
+            left: 50%;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            transform: translateX(-50%) translateY(-50%);
+            z-index: -1;
+}
+p{
+    color: white;
+    font-family: 'Black Ops One', sans-serif;
+
+}
+
+.column_corp{
+    columns: 2;
+    column-width: 40&;
+    flex: 1;
+    border-right: 0px solid #ddd;
+}
+.corp{
+    color: white;
+    list-style: none;
+    cursor: pointer;
+   
+
+}
+
+
+
+.dropdown-buttoncorp{
+    color: white;
+    columns: 2;
+    column-width: 40&;
+    
+   
+}
+
+
+.dropdown-contentcorp {
+    display: none;
+columns: 2;
+    column-width: 40&;
+   
+   
+}
+
+
+
+
+
+
+.corp_img_colums{
+    width: 49%;
+    
+}
+
+.colums {
+  display: flex;
+  color: white;
+  min-height: 60px;
+
+
+}
+
+.partcolumncorp, .patcolumncorp {
+  margin: 10px;
+  display: inline-block;
+      color: white;
+
+}
+.partcolumncorp{
+    
+}
+
+.togglecorp {
+  display: none;
+      color: white;
+min-height: 60px;
+        
+
+}
+
+.dropdown-buttoncorp {
+  padding: 5px;
+  cursor: pointer;
+  color: white;
+  min-height: 60px;
+     
+}
+     
+.colums {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  grid-gap: 10px; 
+
+
+
+
+
+
+
+/*.dropdown-contentcorp p {
+  margin: 0;
+      color: white;
+*/
+}
+
+.dropdown-contentcorp.columns {
+  column-count: 2; 
+  column-gap: 10px;
+  column-width: 48%;
+      color: white;
+
+}
+.togglecorp:checked + .dropdown-buttoncorp + .dropdown-contentcorp {
+    display: block;
+}
+
+/*<!-- Выпадающися текст
+_________________________________________________________________________________________________________________________________________________________________________________________
+-->*/
+
+.Drop_all{
+    color: white;
+    list-style: none;
+    
+}
+details{
+    list-style: none;
+    
+}
+
+
+.row {
+    display: flex;
+    height: auto;
+    min-height: 70px;
+    max-height: 580px;
+    z-index: 04378542;
+}
+
+.column {
+    flex: 1;
+}
+
+.column:last-child {
+    border-right: none;
+}
+
+.toggle {
+    display: none;
+}
+
+.dropdown-button {
+   
+    color: white;
+    
+    cursor: pointer;
+}
+
+.dropdown-content {
+    
+    display: none;
+  width: 160px;
+  height: 500px;
+  color:white;
+}
+
+.toggle:checked + .dropdown-button + .dropdown-content {
+    display: block;
+}
+.text_in_colums{
+    height: 500px;
+    width: 160px;
+}
+.link_for_bands{
+    color: yellow;
+}
+
+
+.Miletech{
+    color:yellow;
+}
+
+.Arasaka{
+    color:yellow;
+}
+
+.togglelink {
+    display: none;
+}
+
+.dropdown-contentlink {
+    display: none;
+}
+
+
+
+.togglelink:checked + .dropdown-buttonlink + .dropdown-contentlink {
+    display: block;}
+.partcolumnlink{
+     float: right;
+      color: yellow; 
+    margin-right: 40px;
+}
+.partcolumnlink1{
+      color: yellow; 
+}
+nav{
+    background-color: #2a2f2f;
+    height: 100px;
+}
+.img_back{
+    height: 40px;
+}
+.idioma{
+      float: right;
+      color: yellow;
+      
+}
+.navigasion{
+    position: relative;
+    text-align: center;
+    color: yellow;
+}
+footer {
+    background-color: #2a2f2f;
+    height: auto;
+    color: white;
+    padding: 20px;
+    margin-top: auto;
+}
+.small-text p {
+    font-size: 8px;
+    text-align: right;
+}
+.foto_foter {
+    display: flex; 
+}
+
+.img_backfot {
+    height: auto; 
+height: 40px;
+   
+    
+}

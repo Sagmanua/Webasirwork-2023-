@@ -1,0 +1,126 @@
+ @import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Oswald:wght@500;600&family=Raleway:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Glass+Antiqua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Dancing+Script:wght@500&family=Glass+Antiqua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+body, html{
+         margin: 0;
+      padding: 0;
+     height: 50px;
+}
+html {
+      /*background-color: #2ecc71; */
+    }
+
+.logo{
+    width: 200px;
+     display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.name{
+    text-align: center;
+}
+.underdel{
+    margin-top: 100px;
+}
+a{
+    color:#cece6b;
+}
+
+body{
+background-image: url(1366_2000234.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+main{
+    color: #cece6b;
+    font-family: 'Glass Antiqua', sans-serif;
+    background-image: url(1366_2000234.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    z-index: 1;
+}
+.img_right_text {
+  display: flex; 
+  align-items: center; 
+}
+details{
+    cursor: pointer;
+}
+.video12{
+    width: 100%;
+}
+.map{
+    width: 100%;
+}
+summary::-webkit-details-marker {
+  display: none;
+}
+.foto2details4f{
+    width: 50%;
+}
+
+.togglelink {
+    display: none;
+}
+
+.dropdown-contentlink {
+    display: none;
+}
+
+
+
+.togglelink:checked + .dropdown-buttonlink + .dropdown-contentlink {
+    display: block;}
+.partcolumnlink{
+     float: right;
+      color: yellow; 
+    margin-right: 40px;
+}
+.partcolumnlink1{
+      color: yellow; 
+}
+nav{
+    background-color: #2a2f2f;
+    height: 100px;
+}
+.img_back{
+    height: 40px;
+}
+.idioma{
+      float: right;
+      color: yellow;
+      
+}
+.navigasion{
+    position: relative;
+    text-align: center;
+    color: yellow;
+}
+footer {
+    background-color: #2a2f2f;
+    height: auto;
+    color: white;
+    padding: 20px;
+    
+}
+.small-text p {
+    font-size: 8px;
+    text-align: right;
+}
+.foto_foter {
+    display: flex; 
+}
+
+.img_backfot {
+    height: auto; 
+height: 40px;
+   
+    
+}
+.inline-elements {
+            display: inline-block;
+            margin: 0;
+}

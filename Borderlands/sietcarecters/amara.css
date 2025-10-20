@@ -1,0 +1,25 @@
+body{
+    /*background-image: url(ImgBorder3/2KGMKT_BL3_UL_ED_EPIC_Portrait_860x1148-860x1148-c040cc358321cd1fb63e6647be0ccb3c.jpg),url(ImgBorder3/%D0%B7%D0%B0%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F.jpg);*/
+    background-image: url(../ImgBorder3/snapedit_1699202580357.jpg);
+    background-color: azure;
+    background-size: 50%;
+}
+details {
+    border: 1px solid #ccc; /* Граница вокруг выпадающего текста */
+    color: black;
+    background-color: #fff;
+    width: 165px; /* Ширина выпадающего текста */
+    height: 150px; /* Высота выпадающего текста */
+}
+main{
+    margin-top: 30px;
+    width: 55%;
+    height: auto;
+    background-color: black;
+    border: 1px solid white;
+    padding: 20px;
+    color: azure;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

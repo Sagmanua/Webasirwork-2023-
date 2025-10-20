@@ -1,0 +1,74 @@
+ .myImage {
+      display: none;
+    }
+
+
+.toggleCheckbox {
+      display: none;
+    }
+
+    /* Стили для стилизации текста как ссылки */
+.displayText {
+      color: blue;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+
+    /* Стили для изменения стиля чекбокса */
+.toggleCheckbox + label {
+      color: blue;
+      text-decoration: underline;
+      cursor: pointer;
+      display: inline-block;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

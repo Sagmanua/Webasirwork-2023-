@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Cormorant+Garamond:ital,wght@1,300&family=Oswald:wght@500;600&family=Raleway:ital,wght@1,100&display=swap');
+
+
+body{
+    /*background-image: url(ImgBorder3/2KGMKT_BL3_UL_ED_EPIC_Portrait_860x1148-860x1148-c040cc358321cd1fb63e6647be0ccb3c.jpg),url(ImgBorder3/%D0%B7%D0%B0%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F.jpg);*/
+    background-image: url(ImgBorder3/snapedit_1699202580357.jpg);
+    background-color: azure;
+    background-size: 50%;
+    font-family: Raleway;
+    background-attachment:local;
+  
+}
+.logo{
+        display: block;
+   margin-left: auto;
+   margin-right: auto;
+    height: 200px;
+}
+h1{
+    font-family: Raleway;
+}
+p{
+    font-family: Raleway;
+}
+.h1_bord{
+    text-align: center;
+}
+main{
+    margin-top: 30px;
+    width: 55%;
+    height: auto;
+    background-color: black;
+    border: 1px solid white;
+    padding: 20px;
+    color: azure;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.d-block{
+    color: white;
+}
+.Linkforsietcarecters{
+    color: white;
+}
+.carousel slide {
+    height: auto; 
+    margin-top: 10px
+    }
+.smallopuc{
+    width: 18opx;
+    height: auto;
+    background-color: blue;
+    border: 1px solid white;
+    padding: 20px;
+    color: azure;
+
+}
+.wepon{
+    text-align: center;
+    margin-top: 40px;
+}
+.video12{
+    width: 100%;
+}
+summary::-webkit-details-marker {
+  display: none;
+}
+/*_____________________________________________*/
+footer {
+    background-color: #2a2f2f;
+    height: auto;
+    color: white;
+    padding: 20px;
+    margin-top: auto;
+}
+.small-text p {
+    font-size: 8px;
+    text-align: right;
+}
+.foto_foter {
+    display: flex; /* Используйте flexbox для расположения изображений в ряд */
+}
+
+.img_backfot {
+    height: auto; 
+height: 40px;
+   
+    
+}
+
+
+.togglelink {
+    display: none;
+}
+
+.dropdown-contentlink {
+    display: none;
+}
+
+
+
+.togglelink:checked + .dropdown-buttonlink + .dropdown-contentlink {
+    display: block;}
+.partcolumnlink{
+     float: right;
+      color: yellow; 
+    margin-right: 40px;
+}
+.partcolumnlink1{
+      color: yellow; 
+}
+nav{
+    background-color: #2a2f2f;
+    height: 100px;
+    
+}
+.img_back{
+    height: 40px;
+}
+.idioma{
+      float: right;
+      color: yellow;
+      
+}
+.navigasion{
+    position: relative;
+    text-align: center;
+    color: yellow;
+}
+

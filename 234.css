@@ -1,0 +1,153 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Oswald:wght@500&family=Raleway:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Oswald:wght@500;600&family=Raleway:ital,wght@1,100&display=swap');
+
+ body, html {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+}
+.video12{
+ position: fixed;
+            top: 50%;
+            left: 50%;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            transform: translateX(-50%) translateY(-50%);
+            z-index: -1;
+}
+.type1{
+    color: white;
+    text-align: center;
+}
+nav{
+    background-color: #2a2f2f;
+    height: 100px;
+}
+.img_back{
+    height: 40px;
+}
+.textwihtfoto{
+  display: flex; 
+  align-items: center; 
+  height: auto;
+    
+}
+.text_right{
+      height: auto;
+      margin-right: 20px;
+        font-family: Oswald;
+    color: azure;
+
+}
+html {
+      background-color: #2a2f2f;
+    }
+
+.idioma{
+      float: right;
+      margin: 1px;
+      color: yellow;
+      
+}
+.navigasion{
+    position: relative;
+    text-align: center;
+    color: yellow;
+}
+p{
+    color: black;
+    font-family: Raleway ;
+    
+}
+
+}
+.link_for_games{
+    color: aqua;
+}
+
+main{
+    border: 2px solid white;
+    background-color: rgba(114, 182, 98, 0.3);
+ 
+    color: black;
+    margin-top: 30px;
+    min-height: 400px;
+    max-height: inherit;
+    color: azure;
+      
+}
+.section{
+     border: 2px solid white;
+    background-color: rgba(114, 182, 98, 0.3);
+ 
+    color: black;
+    margin-top: 30px;
+    height: auto;
+    color: azure;
+    
+}
+.top_of_ganes{
+    
+}
+details summary {
+    list-style-type: none;
+    list-style-image: none;
+}
+.topgames{
+    background-color: #164c38;
+}
+.content{
+    background-color: #2a2f2f;
+}
+
+.togglelink {
+    display: none;
+}
+
+.dropdown-contentlink {
+    display: none;
+}
+
+
+
+.togglelink:checked + .dropdown-buttonlink + .dropdown-contentlink {
+    display: block;}
+.partcolumnlink{
+     float: right;
+      color: yellow; 
+    margin-right: 40px;
+}
+.partcolumnlink1{
+      color: yellow; 
+}
+contacto{
+background-color:  #d8fac8;
+}
+
+footer {
+    background-color: #2a2f2f;
+    height: auto;
+    color: white;
+    padding: 20px;
+    margin-top: auto;
+}
+.small-text p {
+    font-size: 8px;
+    text-align: right;
+    color:white;
+}
+.foto_foter {
+    display: flex; /* Используйте flexbox для расположения изображений в ряд */
+}
+
+.img_backfot {
+    height: auto; 
+height: 40px;
+   
+    
+}
