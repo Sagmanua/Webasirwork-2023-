@@ -1,39 +1,42 @@
-# My Favorite Games (Webasirwork-2023)
+# Mis Juegos Favoritos (Webasirwork-2023)
 
-## 🎮 Project Description
+## 🎮 Descripción del Proyecto
 
-This is a personal website dedicated to the author's passion for PC video games. The site provides general commentary on the PC gaming landscape and offers detailed reviews and lists of some of the best titles released in recent years.
+Este es un sitio web personal dedicado a la pasión del autor por los **videojuegos de PC**. El sitio ofrece comentarios generales sobre el panorama de los juegos de PC y proporciona reseñas detalladas y listas de algunos de los mejores títulos lanzados en los últimos años.
 
-The project was created as a showcase of web development work (Webasirwork-2023).
+El proyecto fue creado como una muestra del trabajo de desarrollo web (**Webasirwork-2023**).
 
-## 📋 Content Overview
+***
 
-The website is structured around detailed discussions of specific games and a list of personal favorites.
+## 📋 Resumen del Contenido
 
-### Featured Content
+El sitio web está estructurado en torno a debates detallados de juegos específicos y una lista de favoritos personales.
 
-* **PC Gaming Discussion:** A general overview of PC games, emphasizing their diversity in genre (Action, Strategy, Simulation) and technical capabilities compared to other platforms.
-* **Top 5 List:** A ranking of the author's five favorite games, including *Nier Automata*, *Dark Souls 3*, *The Witcher 3*, *Cyberpunk 2077*, and *Borderlands 3*.
+### Contenido Destacado
 
-### Detailed Game Reviews (Subpages)
+* **Debate sobre Juegos de PC:** Una visión general de los juegos de PC, enfatizando su diversidad de género (Acción, Estrategia, Simulación) y sus capacidades técnicas en comparación con otras plataformas.
+* **Lista Top 5:** Una clasificación de los cinco juegos favoritos del autor, que incluye *Nier Automata*, *Dark Souls 3*, *The Witcher 3*, *Cyberpunk 2077* y *Borderlands 3*.
 
-The site includes in-depth sections for the following highly recommended titles:
+### Reseñas Detalladas de Juegos (Subpáginas)
 
-1.  **The Witcher 3: Wild Hunt:** Review covering its status as the trilogy finale, its major expansions (*Hearts of Stone* and *Blood and Wine*), analysis of the open-world design, and the Gwent mini-game.
-2.  **Cyberpunk 2077:** *(Content linked, assumed detailed review)*
-3.  **Borderlands 3:** *(Content linked, assumed detailed review)*
+El sitio incluye secciones detalladas para los siguientes títulos altamente recomendados:
 
-## 🌐 Navigation and Features
+1.  **The Witcher 3: Wild Hunt:** Reseña que cubre su estado como final de la trilogía, sus principales expansiones (*Hearts of Stone* y *Blood and Wine*), análisis del diseño de mundo abierto y el minijuego de Gwent.
+2.  **Cyberpunk 2077:** *([Contenido enlazado, se asume reseña detallada](https://sagmanua.github.io/Webasirwork-2023-/Cuber/CuberES.html))*
+3.  **Borderlands 3:** *([Contenido enlazado, se asume reseña detallada](https://sagmanua.github.io/Webasirwork-2023-/Borderlands/mainbordEn.html))*
 
-* **Language Options:** The site includes navigation options for English (EN), Ukrainian (UA), and Spanish (ES) versions.
-* **Navigation Menu:** Easy access links to all major game reviews from the homepage.
-* **Social Links:** Contact information and links to associated social media pages (Instagram, Facebook) for "Forum Games."
+***
 
-## 🛠️ Usage (Development Notes)
+## 🌐 Navegación y Características
 
-To view the website, simply navigate to the main entry point:
+* **Opciones de Idioma:** El sitio incluye opciones de navegación para versiones en Inglés (**EN**), Ucraniano (**UA**) y Español (**ES**).
+* **Menú de Navegación:** Enlaces de fácil acceso a todas las reseñas principales de juegos desde la página de inicio.
+* **Enlaces Sociales:** Información de contacto y enlaces a páginas de redes sociales asociadas (Instagram, Facebook) para "Forum Games".
+
+## 🛠️ Uso (Notas de Desarrollo)
+
+Para ver el sitio web, simplemente navegue hasta el punto de entrada principal:
 [https://sagmanua.github.io/Webasirwork-2023-/](https://sagmanua.github.io/Webasirwork-2023-/)
 
----
 
-*This README was generated based on browsing the content hosted at the repository URL.*
+
